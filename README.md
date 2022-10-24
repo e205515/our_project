@@ -9,3 +9,6 @@ githubの練習
 
 ・How to fix ‘fatal: refusing to merge unrelated histories’ Git error
 https://komodor.com/learn/how-to-fix-fatal-refusing-to-merge-unrelated-histories-error/
+
+・.gitignore の書き方。ファイル/ディレクトリの除外
+https://www-creators.com/archives/1662
