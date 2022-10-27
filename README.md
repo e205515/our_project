@@ -12,3 +12,6 @@ https://komodor.com/learn/how-to-fix-fatal-refusing-to-merge-unrelated-histories
 
 ・.gitignore の書き方。ファイル/ディレクトリの除外
 https://www-creators.com/archives/1662
+
+・強制的にgit pullをしてローカルの内容をリモートの内容で書き換えたい
+https://hrroct.hatenablog.com/entry/2020/11/04/203109
